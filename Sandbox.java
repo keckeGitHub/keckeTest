@@ -6,5 +6,6 @@ public class Sandbox {
         System.out.println("siema");
         System.out.println("Another line to print");
         System.out.println("Here is a new line");
+        System.out.println("Typing something");
     }
 }
